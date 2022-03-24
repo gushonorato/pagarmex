@@ -1,6 +1,8 @@
 # Pagarmex
 
-**TODO: Add description**
+Elixir API Client for Pagar.me payment gateway.
+
+**ATENTION - This lib is a work in progress**
 
 ## Installation
 
@@ -10,7 +12,7 @@ by adding `pagarmex` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:pagarmex, "~> 0.1.0"}
+    {:pagarmex, github: "gushonorato/pagarmex"}
   ]
 end
 ```
